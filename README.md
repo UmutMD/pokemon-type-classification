@@ -21,3 +21,8 @@ cover image from https://www.hjackets.com/blog/pikachu-costume-for-kids-and-adul
 
 
 https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
+
+
+#What I am trying
+
+Implementation of : TensorFlow CNN see how it goes
