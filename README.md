@@ -26,3 +26,6 @@ https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types
 #What I am trying
 
 Implementation of : TensorFlow CNN see how it goes
+
+
+loss: 0.2149 - accuracy: 0.9444
